@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.body{
+    padding: 0;
+}
+.container{
+    width: 1140px;
+    margin: auto;
+    position: absolute;
+}
+.form-control{
+    display: flex; 
+    width: auto;
+}
+.formElements{
+    width:300px;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+/* #category #make #model #price #photo #yourform{
+
+} */
